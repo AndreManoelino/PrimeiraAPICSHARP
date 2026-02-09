@@ -1,0 +1,15 @@
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.csproj.AssemblyReference.cache
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.AssemblyInfoInputs.cache
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.AssemblyInfo.cs
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.csproj.CoreCompileInputs.cache
+C:\Users\aapet\ControleAD\ControleAD.Application\bin\Debug\net8.0\ControleAD.Application.deps.json
+C:\Users\aapet\ControleAD\ControleAD.Application\bin\Debug\net8.0\ControleAD.Application.dll
+C:\Users\aapet\ControleAD\ControleAD.Application\bin\Debug\net8.0\ControleAD.Application.pdb
+C:\Users\aapet\ControleAD\ControleAD.Application\bin\Debug\net8.0\ControleAD.Domain.dll
+C:\Users\aapet\ControleAD\ControleAD.Application\bin\Debug\net8.0\ControleAD.Domain.pdb
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\Controle.BBB3DF99.Up2Date
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.dll
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\refint\ControleAD.Application.dll
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ControleAD.Application.pdb
+C:\Users\aapet\ControleAD\ControleAD.Application\obj\Debug\net8.0\ref\ControleAD.Application.dll

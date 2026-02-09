@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.Web", "ControleAD.Web\ControleAD.Web.csproj", "{E29FDD97-7FD5-4F50-9951-5FCA4670C29F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.API", "ControleAD.API\ControleAD.API.csproj", "{EEB9E744-CFE4-485E-A42A-949D624B8BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.Application", "ControleAD.Application\ControleAD.Application.csproj", "{10801BA6-E420-46FC-ACDD-AAA6CBE32F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.Domain", "ControleAD.Domain\ControleAD.Domain.csproj", "{CEF48641-CE66-4180-BDE2-D9C6695CE8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.Infrastructure", "ControleAD.Infrastructure\ControleAD.Infrastructure.csproj", "{5F4EF692-388E-4434-BE3B-5473FDE44A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAD.Shared", "ControleAD.Shared\ControleAD.Shared.csproj", "{A5568B35-AC02-4090-A242-3999CC36DDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E29FDD97-7FD5-4F50-9951-5FCA4670C29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29FDD97-7FD5-4F50-9951-5FCA4670C29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29FDD97-7FD5-4F50-9951-5FCA4670C29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29FDD97-7FD5-4F50-9951-5FCA4670C29F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB9E744-CFE4-485E-A42A-949D624B8BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB9E744-CFE4-485E-A42A-949D624B8BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB9E744-CFE4-485E-A42A-949D624B8BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB9E744-CFE4-485E-A42A-949D624B8BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10801BA6-E420-46FC-ACDD-AAA6CBE32F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10801BA6-E420-46FC-ACDD-AAA6CBE32F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10801BA6-E420-46FC-ACDD-AAA6CBE32F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10801BA6-E420-46FC-ACDD-AAA6CBE32F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF48641-CE66-4180-BDE2-D9C6695CE8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF48641-CE66-4180-BDE2-D9C6695CE8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF48641-CE66-4180-BDE2-D9C6695CE8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF48641-CE66-4180-BDE2-D9C6695CE8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4EF692-388E-4434-BE3B-5473FDE44A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4EF692-388E-4434-BE3B-5473FDE44A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4EF692-388E-4434-BE3B-5473FDE44A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4EF692-388E-4434-BE3B-5473FDE44A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5568B35-AC02-4090-A242-3999CC36DDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5568B35-AC02-4090-A242-3999CC36DDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5568B35-AC02-4090-A242-3999CC36DDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5568B35-AC02-4090-A242-3999CC36DDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

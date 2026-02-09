@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ControleAD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ControleAD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ControleAD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleAD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ControleAD.Domain/ControleAD.Domain.csproj",
+      "msbuildProject": "../ControleAD.Domain/ControleAD.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ControleAD.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aapet\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aapet\\ControleAD\\ControleAD.Application\\ControleAD.Application.csproj",
+      "projectName": "ControleAD.Application",
+      "projectPath": "C:\\Users\\aapet\\ControleAD\\ControleAD.Application\\ControleAD.Application.csproj",
+      "packagesPath": "C:\\Users\\aapet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aapet\\ControleAD\\ControleAD.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aapet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\aapet\\ControleAD\\ControleAD.Domain\\ControleAD.Domain.csproj": {
+              "projectPath": "C:\\Users\\aapet\\ControleAD\\ControleAD.Domain\\ControleAD.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

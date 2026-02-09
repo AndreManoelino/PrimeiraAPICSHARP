@@ -1,0 +1,11 @@
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.AssemblyInfoInputs.cache
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.AssemblyInfo.cs
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aapet\ControleAD\ControleAD.Domain\bin\Debug\net8.0\ControleAD.Domain.deps.json
+C:\Users\aapet\ControleAD\ControleAD.Domain\bin\Debug\net8.0\ControleAD.Domain.dll
+C:\Users\aapet\ControleAD\ControleAD.Domain\bin\Debug\net8.0\ControleAD.Domain.pdb
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.dll
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\refint\ControleAD.Domain.dll
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ControleAD.Domain.pdb
+C:\Users\aapet\ControleAD\ControleAD.Domain\obj\Debug\net8.0\ref\ControleAD.Domain.dll
